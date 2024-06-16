@@ -1,0 +1,59 @@
+{
+   "name":"Han Haoyu",
+   "short_name":"Han Haoyu",
+   "start_url":"https://www.hanhaoyu.com",
+   "display":"standalone",
+   "background_color":"#ffffff",
+   "theme_color":"var(--mobB)",
+   "description":"Selamat datang di hanhaoyu.com. Situs web ini adalah platform di mana saya berbagi wawasan, pandangan, dan pengetahuan tentang pencapaian, pengalaman, serta bagaimana saya dapat menjelajahi potensi tanpa batas dalam segala aspek kehidupan. Saya percaya bahwa setiap individu memiliki potensi yang unik dan luar biasa, dan melalui situs web ini, saya ingin menginspirasi dan memberdayakan orang lain untuk menemukan dan meraih potensi terbaik merek.",
+   "icons":[
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"36x36",
+         "type":"image/png",
+         "density":"0.75"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"48x48",
+         "type":"image/png",
+         "density":"1.0"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"72x72",
+         "type":"image/png",
+         "density":"1.5"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"96x96",
+         "type":"image/png",
+         "density":"2.0"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"144x144",
+         "type":"image/png",
+         "density":"3.0"
+      },
+      {
+       "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"180x180",
+         "type":"image/png",
+         "density":"4.5"
+	   },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",
+         "sizes":"192x192",
+         "type":"image/png",
+         "density":"4.0"
+      },
+      {
+	"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Q8P5hdbrVCP3K89pXz8Nj2okeIKSNJr8Vibd8ZzQtI2EY9noKaLGmGWlb3RktJ5KyPITlRbqyzQX5BfQYy8f8MHJSyY-OOPHEqNEpO7D3r8NRqc5MN32TD26syE1omrFvkTpyicDhX0Hh_F_toKBY7PNBcn5KZIXnCJV_JNljowzzw1E9M9D0KwmRyE/s1600/logo-hanhaoyu.png",     
+         "sizes":"512x512",
+         "type":"image/png",
+         "density":"5.0"
+      }
+   ]
+}
