@@ -4,9 +4,9 @@
   "description": "Kanal transparansi pencairan Beasiswa Unggulan oleh Han Haoyu. Data mandiri awardee, dipantau terbuka oleh siapa saja.",
   "lang": "id",
   "dir": "ltr",
-  "start_url": "/?utm_source=pwa",
-  "scope": "/",
-  "id": "/",
+  "start_url": "https://databu.hanhaoyu.com/?utm_source=pwa",
+  "scope": "https://databu.hanhaoyu.com/",
+  "id": "https://databu.hanhaoyu.com/",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui", "browser"],
   "orientation": "portrait-primary",
@@ -67,7 +67,7 @@
       "name": "Data Pencairan",
       "short_name": "Data",
       "description": "Tabel dan statistik lengkap pencairan awardee",
-      "url": "/data",
+      "url": "https://databu.hanhaoyu.com/data",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclKIyJ0PkL2AlOQY2U9xpSzjMsjaHL85m_LTonseF5hN_-V4m1AA_FxBUjDJf14OvzQauN5cdKz3FZIujwUReH6qxWrV0CIk4xrY6SDqsDnYE6wOt5tRMqddambx3xbyqKB_CLUbIn4rXNWafsQAox1GLNsT6xqKkQpnnWHJMJE8ahYXie68ATt9nGGjf/s192/LOGO%20DATABU.png",
@@ -79,7 +79,7 @@
       "name": "Isi Data Pencairan",
       "short_name": "Isi Data",
       "description": "Laporkan pencairanmu dalam tiga menit",
-      "url": "/form",
+      "url": "https://databu.hanhaoyu.com/form",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclKIyJ0PkL2AlOQY2U9xpSzjMsjaHL85m_LTonseF5hN_-V4m1AA_FxBUjDJf14OvzQauN5cdKz3FZIujwUReH6qxWrV0CIk4xrY6SDqsDnYE6wOt5tRMqddambx3xbyqKB_CLUbIn4rXNWafsQAox1GLNsT6xqKkQpnnWHJMJE8ahYXie68ATt9nGGjf/s192/LOGO%20DATABU.png",
@@ -91,7 +91,7 @@
       "name": "Lolos Seleksi",
       "short_name": "Seleksi",
       "description": "Data awardee lolos seleksi Beasiswa Unggulan",
-      "url": "/seleksi",
+      "url": "https://databu.hanhaoyu.com/seleksi",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclKIyJ0PkL2AlOQY2U9xpSzjMsjaHL85m_LTonseF5hN_-V4m1AA_FxBUjDJf14OvzQauN5cdKz3FZIujwUReH6qxWrV0CIk4xrY6SDqsDnYE6wOt5tRMqddambx3xbyqKB_CLUbIn4rXNWafsQAox1GLNsT6xqKkQpnnWHJMJE8ahYXie68ATt9nGGjf/s192/LOGO%20DATABU.png",
@@ -100,9 +100,5 @@
       ]
     }
   ],
-  "scope_extensions": [
-    { "type": "origin", "origin": "https://hanhaoyu.com" }
-  ],
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "iarc_rating_id": ""
+  "license": "https://creativecommons.org/licenses/by/4.0/"
 }
